@@ -1,7 +1,7 @@
 package com.sx.sample;
 
 /**
- * Hello world!
+ * Hello world!! 
  *
  */
 public class App 
